@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:cycAnnot="http://sw.cyc.com/CycAnnotations_v1#"
+	xmlns:cyc="http://sw.cyc.com/concept/"
+	xmlns:dbpedia="http://dbpedia.org/resource/"
+	xmlns:ctag="http://commontag.org/ns#"
+	xmlns:opencyc="http://sw.opencyc.org/concept/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:csw="http://semantic-web.at/ontologies/csw.owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:freebase="http://rdf.freebase.com/ns/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:tags="http://www.holygoat.co.uk/owl/redwood/0.1/tags/">
+
+<rdf:Description rdf:about="urn:uuid:b3c835a0-833a-461a-8e57-3e5d78ef0fd1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-03-07T23:36:50Z</dcterms:modified>
+	<local_filename xmlns="http://www.semantic-web.at/csw.owl#">b3c835a0-833a-461a-8e57-3e5d78ef0fd1</local_filename>
+	<date_added xmlns="http://www.semantic-web.at/csw.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-03-07T23:36:50Z</date_added>
+	<is_indexed xmlns="http://www.semantic-web.at/csw.owl#">false</is_indexed>
+	<retrieved_from xmlns="http://www.semantic-web.at/csw.owl#" rdf:resource="http://www.wisconsinmetalparts.com/cnc-machining-services.html"/>
+	<dc:language>en@undefined</dc:language>
+</rdf:Description>
+
+<rdf:Description rdf:about="urn:uuid:1D991650-0E5A-0001-6792-1E101798BED0">
+	<rdf:type rdf:resource="http://www.holygoat.co.uk/owl/redwood/0.1/tags/Tagging"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-03-07T23:36:50Z</dcterms:modified>
+	<tags:taggedResource rdf:resource="urn:uuid:b3c835a0-833a-461a-8e57-3e5d78ef0fd1"/>
+	<tags:taggedOn rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-03-07T23:34:50Z</tags:taggedOn>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/35"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/23"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/22"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/38"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/39"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/164"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/197"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/15"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/16"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/160"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/166"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/148"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/189"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/190"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/160"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/215"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/255"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/182"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/232"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/139"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/20"/>
+	<tags:associatedTag rdf:resource="http://infoneer.poolparty.biz/ManuTerms/245"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/35">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Turning</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/23">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Aerospace Product and Parts Manufacturing</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/22">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Milling</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/38">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Drilling</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/39">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Boring</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/164">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Tapping</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/197">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Stamping</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/15">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Horizontal machining center</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/16">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Vertical machining center</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/160">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">prototyping</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/166">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">high volume machining</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/148">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Short Run</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/189">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">precision tolerance</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/20">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Other fabricated metal parts</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/190">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Tool Steel</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/160">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Aluminum</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/245">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Stainless 300</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/215">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Kolar</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/255">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Titanium</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/182">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Brass</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/232">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Plastic</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://infoneer.poolparty.biz/ManuTerms/139">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">CNC Machining</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dcterms:hasVersion>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:58:58Z</dcterms:modified>
+	<dc:creator>amerif</dc:creator>
+	<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-07T20:56:43Z</dc:date>
+	<dc:contributor>amerif</dc:contributor>
+</rdf:Description>
+
+</rdf:RDF>

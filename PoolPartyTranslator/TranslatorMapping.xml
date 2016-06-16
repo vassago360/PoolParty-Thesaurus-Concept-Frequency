@@ -1,0 +1,3899 @@
+<xml>
+	<TranslationMapping>
+	
+		<!--****************************************************************
+		  ****  Processes 
+		  ******************************************************************-->
+		<Concept>
+			<Thesaurus value="Mechanical Machining" />
+			<MSDL>
+				<name value="MechanicalMachining" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MechanicalMachining" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Grinding" />
+			<MSDL>
+				<name value="Grinding" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Grinding" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Deburring" />
+			<MSDL>
+				<name value="Burring" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Burring" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Honing" />
+			<MSDL>
+				<name value="Honing" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Honing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Lapping" />
+			<MSDL>
+				<name value="Lapping" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Lapping" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Broaching" />
+			<MSDL>
+				<name value="Broaching" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Broaching" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Hole Making" />
+			<MSDL>
+				<name value="HoleMaking" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HoleMaking" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Counterboring" />
+			<MSDL>
+				<name value="CounterBoring" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CounterBoring" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Countersinking" />
+			<MSDL>
+				<name value="CounterSinking" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CounterSinking" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Deep-hole drilling" />
+			<MSDL>
+				<name value="DeepHoleDrilling" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#DeepHoleDrilling" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Drilling" />
+			<MSDL>
+				<name value="Drilling" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Drilling" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Tapping" />
+			<MSDL>
+				<name value="Tapping" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Tapping" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Reaming" />
+			<MSDL>
+				<name value="Reaming" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Reaming" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Milling" />
+			<MSDL>
+				<name value="Milling" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Milling" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="End Milling" />
+			<MSDL>
+				<name value="EndMilling" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#EndMilling" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Face Milling" />
+			<MSDL>
+				<name value="FaceMilling" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FaceMilling" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Slab Milling" />
+			<MSDL>
+				<name value="SlabMilling" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SlabMilling" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Sawing" />
+			<MSDL>
+				<name value="Sawing" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Sawing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Shaping" />
+			<MSDL>
+				<name value="Shaping" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Shaping" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Turning" />
+			<MSDL>
+				<name value="Turning" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Turning" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Cut-off" />
+			<MSDL>
+				<name value="CutOff" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CutOff" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Facing" />
+			<MSDL>
+				<name value="Facing" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Facing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Grooving" />
+			<MSDL>
+				<name value="Grooving" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Grooving" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Straight turning" />
+			<MSDL>
+				<name value="StraightTurning" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#StraightTurning" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electrica Discharge Machining" />
+			<MSDL>
+				<name value="ElectroDischargeMachining" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectroDischargeMachining" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Laser beam machining" />
+			<MSDL>
+				<name value="LaserBeamCutting" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#LaserBeamCutting" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Casting" />
+			<MSDL>
+				<name value="Casting" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Casting" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Expendable Mold Casting" />
+			<MSDL>
+				<name value="ExpendableMoldCasting" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ExpendableMoldCasting" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Nonexpendable Mold Casting" />
+			<MSDL>
+				<name value="NonExpendableMoldCasting" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#NonExpendableMoldCasting" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Molding" />
+			<MSDL>
+				<name value="Molding" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Molding" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Powder Methods" />
+			<MSDL>
+				<name value="PowderMethods" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PowderMethods" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Adhesive Bonding" />
+			<MSDL>
+				<name value="AdhesiveBonding" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AdhesiveBonding" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Brazing" />
+			<MSDL>
+				<name value="Brazing" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Brazing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Mechanical Joining" />
+			<MSDL>
+				<name value="MechanicalJoining" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MechanicalJoining" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Soldering" />
+			<MSDL>
+				<name value="Soldering" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Soldering" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Welding" />
+			<MSDL>
+				<name value="Welding" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Welding" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Boring" />
+			<MSDL>
+				<name value="Boring" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Boring" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Nontraditional Machining" />
+			<MSDL>
+				<name value="NonTraditionalMachining" />
+				<type value="Process" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#NonTraditionalMachining" />
+			</MSDL>
+		</Concept>
+
+
+		<!--****************************************************************
+		  **** Materials 
+		  ******************************************************************-->
+		<Concept>
+			<Thesaurus value="Aluminium" />
+			<MSDL>
+				<name value="Aluminum" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aluminium 2011" />
+			<MSDL>
+				<name value="Aluminum2011" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum2011" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aluminium 2014" />
+			<MSDL>
+				<name value="Aluminum2014" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum2014" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aluminium 2017" />
+			<MSDL>
+				<name value="Aluminum2017A" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum2017A" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aluminium 2024" />
+			<MSDL>
+				<name value="Aluminum2024" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum2024" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aluminium 3003" />
+			<MSDL>
+				<name value="Aluminum3003" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum3003" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aluminium 5005" />
+			<MSDL>
+				<name value="Aluminum5005" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum5005" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aluminium 5052" />
+			<MSDL>
+				<name value="Aluminum5052" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum5052" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aluminium 5083" />
+			<MSDL>
+				<name value="Aluminum5083" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum5083" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aluminium 5086" />
+			<MSDL>
+				<name value="Aluminum5086" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Aluminum5086" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Brass" />
+			<MSDL>
+				<name value="Brass" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Brass" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Bronze" />
+			<MSDL>
+				<name value="Bronze" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Bronze" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Cast Iron" />
+			<MSDL>
+				<name value="CastIron" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CastIron" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Magnesium" />
+			<MSDL>
+				<name value="Magnesium" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Magnesium" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Nickel 20" />
+			<MSDL>
+				<name value="Nickel" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Nickel" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Stainless 300" />
+			<MSDL>
+				<name value="StainlessSteel" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#StainlessSteel" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Titanium" />
+			<MSDL>
+				<name value="Titanium" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Titanium" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Zinc" />
+			<MSDL>
+				<name value="Zinc" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Zinc" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="copper" />
+			<MSDL>
+				<name value="Copper" />
+				<type value="Material" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Copper" />
+			</MSDL>
+		</Concept>
+				  
+		<!--****************************************************************
+		  **** Industries 
+		  ******************************************************************-->
+		<Concept>
+			<Thesaurus value="Primary Metal Manufacturing" />
+			<MSDL>
+				<name value="PrimaryMetalManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PrimaryMetalManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Machine Shops" />
+			<MSDL>
+				<name value="MachineShops" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineShops" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Nonferrous Metal (except Aluminum) Production and Processing" />
+			<MSDL>
+				<name value="NonferrousMetalProductionAndProcessing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#NonferrousMetalProductionAndProcessing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Foundries" />
+			<MSDL>
+				<name value="Foundries" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Foundries" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Alumina and Aluminum Production and Processing" />
+			<MSDL>
+				<name value="AluminiumProductionAndProcessing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AluminiumProductionAndProcessing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Steel Product Manufacturing from Purchased Steel" />
+			<MSDL>
+				<name value="SteelProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SteelProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Iron and Steel Mills and Ferroalloy Manufacturing" />
+			<MSDL>
+				<name value="IronAndSteelMillsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IronAndSteelMillsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Fabricated Metal Product Manufacturing" />
+			<MSDL>
+				<name value="FabricatedMetalProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FabricatedMetalProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Architectural and Structural Metals Manufacturing" />
+			<MSDL>
+				<name value="ArchitecturalAndStructuralMetalsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ArchitecturalAndStructuralMetalsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Plate Work and Fabricated Structural Product Manufacturing" />
+			<MSDL>
+				<name value="PlateWorkAndFabricatedStructuralProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PlateWorkAndFabricatedStructuralProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Fabricated Structural Metal Manufacturing" />
+			<MSDL>
+				<name value="FabricatedStructuralMetalManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FabricatedStructuralMetalManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Prefabricated Metal Building and Component Manufacturing" />
+			<MSDL>
+				<name value="PrefabricatedMetalBuildingAndComponentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PrefabricatedMetalBuildingAndComponentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Plate Work Manufacturing" />
+			<MSDL>
+				<name value="PlateWorkManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PlateWorkManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ornamental and Architectural Metal Products Manufacturing" />
+			<MSDL>
+				<name value="OrnamentalAndArchitecturalMetalProductsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OrnamentalAndArchitecturalMetalProductsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Sheet Metal Work Manufacturing" />
+			<MSDL>
+				<name value="SheetMetalWorkManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SheetMetalWorkManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metal Window and Door Manufacturing" />
+			<MSDL>
+				<name value="MetalWindowAndDoorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalWindowAndDoorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ornamental and Architectural Metal Work Manufacturing" />
+			<MSDL>
+				<name value="OrnamentalAndArchitecturalMetalWorkManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OrnamentalAndArchitecturalMetalWorkManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Cutlery and Handtool Manufacturing" />
+			<MSDL>
+				<name value="CutleryAndHandtoolManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CutleryAndHandtoolManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Kitchen Utensil, Pot, and Pan Manufacturing" />
+			<MSDL>
+				<name value="KitchenUtensilPotAndPanManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#KitchenUtensilPotAndPanManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Cutlery and Flatware (except Precious) Manufacturing" />
+			<MSDL>
+				<name value="CutleryAndFlatwareExceptPreciousManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CutleryAndFlatwareExceptPreciousManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Saw Blade and Handsaw Manufacturing" />
+			<MSDL>
+				<name value="SawBladeAndHandsawManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SawBladeAndHandsawManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Hand and Edge Tool Manufacturing" />
+			<MSDL>
+				<name value="HandAndEdgeToolManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HandAndEdgeToolManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Forging and Stamping" />
+			<MSDL>
+				<name value="ForgingAndStamping" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ForgingAndStamping" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Iron and Steel Forging" />
+			<MSDL>
+				<name value="IronAndSteelForging" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IronAndSteelForging" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Custom Roll Forming" />
+			<MSDL>
+				<name value="CustomRollForming" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CustomRollForming" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Crown and Closure Manufacturing" />
+			<MSDL>
+				<name value="CrownAndClosureManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CrownAndClosureManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metal Stamping" />
+			<MSDL>
+				<name value="MetalStamping" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalStamping" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Powder Metallurgy Part Manufacturing" />
+			<MSDL>
+				<name value="PowderMetallurgyPartManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PowderMetallurgyPartManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Nonferrous Forging" />
+			<MSDL>
+				<name value="NonferrousForging" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#NonferrousForging" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Fabricated Metal Product Manufacturing" />
+			<MSDL>
+				<name value="OtherFabricatedMetalProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherFabricatedMetalProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metal Valve Manufacturing" />
+			<MSDL>
+				<name value="MetalValveManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalValveManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Fluid Power Valve and Hose Fitting Manufacturing" />
+			<MSDL>
+				<name value="FluidPowerValveAndHoseFittingManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FluidPowerValveAndHoseFittingManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Industrial Valve Manufacturing" />
+			<MSDL>
+				<name value="IndustrialValveManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IndustrialValveManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Metal Valve and Pipe Fitting Manufacturing" />
+			<MSDL>
+				<name value="OtherMetalValveAndPipeFittingManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherMetalValveAndPipeFittingManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Plumbing Fixture Fitting and Trim Manufacturing" />
+			<MSDL>
+				<name value="PlumbingFixtureFittingAndTrimManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PlumbingFixtureFittingAndTrimManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="All Other Fabricated Metal Product Manufacturing" />
+			<MSDL>
+				<name value="AllOtherFabricatedMetalProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AllOtherFabricatedMetalProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Industrial Pattern Manufacturing" />
+			<MSDL>
+				<name value="IndustrialPatternManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IndustrialPatternManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Ordnance and Accessories Manufacturing" />
+			<MSDL>
+				<name value="OtherOrdnanceAndAccessoriesManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherOrdnanceAndAccessoriesManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Fabricated Pipe and Pipe Fitting Manufacturing" />
+			<MSDL>
+				<name value="FabricatedPipeAndPipeFittingManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FabricatedPipeAndPipeFittingManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ammunition (except Small Arms) Manufacturing" />
+			<MSDL>
+				<name value="AmmunitionExceptSmallArmsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AmmunitionExceptSmallArmsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Small Arms Manufacturing" />
+			<MSDL>
+				<name value="SmallArmsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SmallArmsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Small Arms Ammunition Manufacturing" />
+			<MSDL>
+				<name value="SmallArmsAmmunitionManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SmallArmsAmmunitionManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ball and Roller Bearing Manufacturing" />
+			<MSDL>
+				<name value="BallAndRollerBearingManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BallAndRollerBearingManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="All Other Miscellaneous Fabricated Metal Product Manufacturing" />
+			<MSDL>
+				<name value="AllOtherMicellaneousFabricatedMetalProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AllOtherMicellaneousFabricatedMetalProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Enameled Iron and Metal Sanitary Ware Manufacturing" />
+			<MSDL>
+				<name value="EnameledIronAndMetalSanitaryWareManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#EnameledIronAndMetalSanitaryWareManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Coating, Engraving, Heat Treating, and Allied Activities" />
+			<MSDL>
+				<name value="CoatingEngravingHeatTreatingAndAlliedActivities" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CoatingEngravingHeatTreatingAndAlliedActivities" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers" />
+			<MSDL>
+				<name value="MetalCoatingEngravingexceptJewelryAndSilverwareAndAlliedServicesToManufacturers" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalCoatingEngravingexceptJewelryAndSilverwareAndAlliedServicesToManufacturers" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metal Heat Treating" />
+			<MSDL>
+				<name value="MetalHeatTreating" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalHeatTreating" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electroplating, Plating, Polishing, Anodizing, and Coloring" />
+			<MSDL>
+				<name value="ElectroplatingPlatingPolishingAnodizingAndColoring" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectroplatingPlatingPolishingAnodizingAndColoring" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing" />
+			<MSDL>
+				<name value="MachineShopsTurnedProductAndScrewNutAndBoltManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineShopsTurnedProductAndScrewNutAndBoltManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Turned Product and Screw, Nut, and Bolt Manufacturing" />
+			<MSDL>
+				<name value="TurnedProductAndScrewNutAndBoltManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TurnedProductAndScrewNutAndBoltManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Precision Turned Product Manufacturing" />
+			<MSDL>
+				<name value="PrecisionTurnedProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PrecisionTurnedProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Bolt, Nut, Screw, Rivet, and Washer Manufacturing" />
+			<MSDL>
+				<name value="BoltNutScrewRivetAndWasherManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BoltNutScrewRivetAndWasherManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>Machine Shops
+			<Thesaurus value="Spring and Wire Product Manufacturing" />
+			<MSDL>
+				<name value="SpringAndWireProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SpringAndWireProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Spring (Heavy Gauge) Manufacturing" />
+			<MSDL>
+				<name value="SpringHeavyGaugeManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SpringHeavyGaugeManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Fabricated Wire Product Manufacturing" />
+			<MSDL>
+				<name value="OtherFabricatedWireProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherFabricatedWireProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Spring (Light Gauge) Manufacturing" />
+			<MSDL>
+				<name value="SpringLightGaugeManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SpringLightGaugeManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Hardware Manufacturing" />
+			<MSDL>
+				<name value="HardwareManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HardwareManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Boiler, Tank, and Shipping Container Manufacturing" />
+			<MSDL>
+				<name value="BoilerTankandShippingContainerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BoilerTankandShippingContainerManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Power Boiler and Heat Exchanger Manufacturing" />
+			<MSDL>
+				<name value="PowerBoilerAndHeatExchangerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PowerBoilerAndHeatExchangerManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metal Can, Box, and Other Metal Container (Light Gauge) Manufacturing" />
+			<MSDL>
+				<name value="MetalCanBoxAndOtherContainerLightGaugeManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalCanBoxAndOtherContainerLightGaugeManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Metal Container Manufacturing" />
+			<MSDL>
+				<name value="OtherMetalContainerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherMetalContainerManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metal Can Manufacturing" />
+			<MSDL>
+				<name value="MetalCanManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalCanManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metal Tank (Heavy Gauge) Manufacturing" />
+			<MSDL>
+				<name value="MetalTankHeavyGaugeManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalTankHeavyGaugeManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Machinery Manufacturing" />
+			<MSDL>
+				<name value="MachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Commercial and Service Industry Machinery Manufacturing" />
+			<MSDL>
+				<name value="CommercialAndServiceIndustryMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CommercialAndServiceIndustryMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Photographic and Photocopying Equipment Manufacturing" />
+			<MSDL>
+				<name value="PhotographicAndPhotocopyingEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PhotographicAndPhotocopyingEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Optical Instrument and Lens Manufacturing" />
+			<MSDL>
+				<name value="OpticalInstrumentAndLensManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OpticalInstrumentAndLensManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Office Machinery Manufacturing" />
+			<MSDL>
+				<name value="OfficeMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OfficeMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Commercial Laundry, Drycleaning, and Pressing Machine Manufacturing" />
+			<MSDL>
+				<name value="CommercialLaundryDrycleaningAndPressingMachineManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CommercialLaundryDrycleaningAndPressingMachineManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Automatic Vending Machine Manufacturing" />
+			<MSDL>
+				<name value="AutomaticVendingMachineManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AutomaticVendingMachineManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Commercial and Service Industry Machinery Manufacturing" />
+			<MSDL>
+				<name value="OtherCommercialAndServiceIndustryMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherCommercialAndServiceIndustryMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Industrial Machinery Manufacturing" />
+			<MSDL>
+				<name value="IndustrialMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IndustrialMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Sawmill and Woodworking Machinery Manufacturing" />
+			<MSDL>
+				<name value="SawmillAndWoodworkingMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SawmillAndWoodworkingMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Industrial Machinery Manufacturing" />
+			<MSDL>
+				<name value="OtherIndustrialMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherIndustrialMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Food Product Machinery Manufacturing" />
+			<MSDL>
+				<name value="FoodProductMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FoodProductMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Printing Machinery and Equipment Manufacturing" />
+			<MSDL>
+				<name value="PrintingMachineryAndEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PrintingMachineryAndEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="All Other Industrial Machinery Manufacturing" />
+			<MSDL>
+				<name value="AllOtherIndustrialMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AllOtherIndustrialMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Semiconductor Machinery Manufacturing" />
+			<MSDL>
+				<name value="SemiconductorMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SemiconductorMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Textile Machinery Manufacturing" />
+			<MSDL>
+				<name value="TextileMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TextileMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Paper Industry Machinery Manufacturing" />
+			<MSDL>
+				<name value="PaperIndustryMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PaperIndustryMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Plastics and Rubber Industry Machinery Manufacturing" />
+			<MSDL>
+				<name value="PlasticsAndRubberIndustryMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PlasticsAndRubberIndustryMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metalworking Machinery Manufacturing" />
+			<MSDL>
+				<name value="MetalworkingMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalworkingMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Rolling Mill Machinery and Equipment Manufacturing" />
+			<MSDL>
+				<name value="RollingMillMachineryAndEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RollingMillMachineryAndEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Cutting Tool and Machine Tool Accessory Manufacturing" />
+			<MSDL>
+				<name value="CuttingToolAndMachineToolAccessoryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CuttingToolAndMachineToolAccessoryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Machine Tool (Metal Cutting Types) Manufacturing" />
+			<MSDL>
+				<name value="MachineToolMetalCuttingTypesManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineToolMetalCuttingTypesManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Industrial Mold Manufacturing" />
+			<MSDL>
+				<name value="IndustrialMoldManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IndustrialMoldManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Special Die and Tool, Die Set, Jig, and Fixture Manufacturing" />
+			<MSDL>
+				<name value="SpecialDieAndToolDieSetJigAndFixtureManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SpecialDieAndToolDieSetJigAndFixtureManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Machine Tool (Metal Forming Types) Manufacturing" />
+			<MSDL>
+				<name value="MachineToolMetalFormingTypesManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineToolMetalFormingTypesManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Metalworking Machinery Manufacturing" />
+			<MSDL>
+				<name value="OtherMetalworkingMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherMetalworkingMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing" />
+			<MSDL>
+				<name value="VentilationHeatingAirConditioningAndCommercialRefrigerationEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#VentilationHeatingAirConditioningAndCommercialRefrigerationEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing" />
+			<MSDL>
+				<name value="AirConditioningAndWarmAirHeatingEquipmentAndCommercialAndIndustrialRefrigerationEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AirConditioningAndWarmAirHeatingEquipmentAndCommercialAndIndustrialRefrigerationEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Heating Equipment (except Warm Air Furnaces) Manufacturing" />
+			<MSDL>
+				<name value="HeatingEquipment(exceptWarmAirFurnaces)Manufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HeatingEquipment(exceptWarmAirFurnaces)Manufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Industrial and Commercial Fan and Blower Manufacturing" />
+			<MSDL>
+				<name value="IndustrialAndCommercialFanAndBlowerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IndustrialAndCommercialFanAndBlowerManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Air Purification Equipment Manufacturing" />
+			<MSDL>
+				<name value="AirPurificationEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AirPurificationEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Agriculture, Construction, and Mining Machinery Manufacturing" />
+			<MSDL>
+				<name value="AgricultureConstructionAndMiningMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AgricultureConstructionAndMiningMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Agricultural Implement Manufacturing" />
+			<MSDL>
+				<name value="AgriculturalImplementManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AgriculturalImplementManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing" />
+			<MSDL>
+				<name value="LawnAndGardenTractorAndHomeLawnAndGardenEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#LawnAndGardenTractorAndHomeLawnAndGardenEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Farm Machinery and Equipment Manufacturing" />
+			<MSDL>
+				<name value="FarmMachineryAndEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FarmMachineryAndEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Mining and Oil and Gas Field Machinery Manufacturing" />
+			<MSDL>
+				<name value="MiningAndOilAndGasFieldMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MiningAndOilAndGasFieldMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Oil and Gas Field Machinery and Equipment Manufacturing" />
+			<MSDL>
+				<name value="OilAndGasFieldMachineryAndEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OilAndGasFieldMachineryAndEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Mining Machinery and Equipment Manufacturing" />
+			<MSDL>
+				<name value="MiningMachineryAndEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MiningMachineryAndEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Construction Machinery Manufacturing" />
+			<MSDL>
+				<name value="ConstructionMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ConstructionMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other General Purpose Machinery Manufacturing" />
+			<MSDL>
+				<name value="OtherGeneralPurposeMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherGeneralPurposeMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="All Other General Purpose Machinery Manufacturing" />
+			<MSDL>
+				<name value="AllOtherGeneralPurposeMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AllOtherGeneralPurposeMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Power-Driven Handtool Manufacturing" />
+			<MSDL>
+				<name value="PowerDrivenHandtoolManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PowerDrivenHandtoolManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Industrial Process Furnace and Oven Manufacturing" />
+			<MSDL>
+				<name value="IndustrialProcessFurnaceAndOvenManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IndustrialProcessFurnaceAndOvenManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Fluid Power Cylinder and Actuator Manufacturing" />
+			<MSDL>
+				<name value="FluidPowerCylinderAndActuatorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FluidPowerCylinderAndActuatorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Welding and Soldering Equipment Manufacturing" />
+			<MSDL>
+				<name value="WeldingAndSolderingEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#WeldingAndSolderingEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Packaging Machinery Manufacturing" />
+			<MSDL>
+				<name value="PackagingMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PackagingMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="All Other Miscellaneous General Purpose Machinery Manufacturing" />
+			<MSDL>
+				<name value="AllOtherMiscellaneousGeneralPurposeMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AllOtherMiscellaneousGeneralPurposeMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Fluid Power Pump and Motor Manufacturing" />
+			<MSDL>
+				<name value="FluidPowerPumpAndMotorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FluidPowerPumpAndMotorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Scale and Balance Manufacturing" />
+			<MSDL>
+				<name value="ScaleAndBalanceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ScaleAndBalanceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Pump and Compressor Manufacturing" />
+			<MSDL>
+				<name value="PumpAndCompressorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PumpAndCompressorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Pump and Pumping Equipment Manufacturing" />
+			<MSDL>
+				<name value="PumpAndPumpingEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PumpAndPumpingEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Air and Gas Compressor Manufacturing" />
+			<MSDL>
+				<name value="AirAndGasCompressorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AirAndGasCompressorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Measuring and Dispensing Pump Manufacturing" />
+			<MSDL>
+				<name value="MeasuringAndDispensingPumpManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MeasuringAndDispensingPumpManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Material Handling Equipment Manufacturing" />
+			<MSDL>
+				<name value="MaterialHandlingEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MaterialHandlingEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing" />
+			<MSDL>
+				<name value="IndustrialTruckTractorTrailerAndStackerMachineryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IndustrialTruckTractorTrailerAndStackerMachineryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Elevator and Moving Stairway Manufacturing" />
+			<MSDL>
+				<name value="ElevatorAndMovingStairwayManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElevatorAndMovingStairwayManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Conveyor and Conveying Equipment Manufacturing" />
+			<MSDL>
+				<name value="ConveyorAndConveyingEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ConveyorAndConveyingEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Overhead Traveling Crane, Hoist, and Monorail System Manufacturing" />
+			<MSDL>
+				<name value="OverheadTravelingCraneHoistAndMonorailSystemManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OverheadTravelingCraneHoistAndMonorailSystemManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Engine, Turbine, and Power Transmission Equipment Manufacturing" />
+			<MSDL>
+				<name value="EngineTurbineAndPowerTransmissionEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#EngineTurbineAndPowerTransmissionEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing" />
+			<MSDL>
+				<name value="SpeedChangerIndustrialHighSpeedDriveAndGearManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SpeedChangerIndustrialHighSpeedDriveAndGearManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Turbine and Turbine Generator Set Units Manufacturing" />
+			<MSDL>
+				<name value="TurbineAndTurbineGeneratorSetUnitsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TurbineAndTurbineGeneratorSetUnitsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Engine Equipment Manufacturing" />
+			<MSDL>
+				<name value="OtherEngineEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherEngineEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Mechanical Power Transmission Equipment Manufacturing" />
+			<MSDL>
+				<name value="MechanicalPowerTransmissionEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MechanicalPowerTransmissionEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Computer and Electronic Product Manufacturing" />
+			<MSDL>
+				<name value="ComputerAndElectronicProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ComputerAndElectronicProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Communications Equipment Manufacturing" />
+			<MSDL>
+				<name value="CommunicationsEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CommunicationsEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Telephone Apparatus Manufacturing" />
+			<MSDL>
+				<name value="TelephoneApparatusManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TelephoneApparatusManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing" />
+			<MSDL>
+				<name value="RadioAndTelevisionBroadcastingAndWirelessCommunicationsEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RadioAndTelevisionBroadcastingAndWirelessCommunicationsEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Communications Equipment Manufacturing" />
+			<MSDL>
+				<name value="OtherCommunicationsEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherCommunicationsEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Computer and Peripheral Equipment Manufacturing" />
+			<MSDL>
+				<name value="ComputerAndPeripheralEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ComputerAndPeripheralEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Computer Storage Device Manufacturing" />
+			<MSDL>
+				<name value="ComputerStorageDeviceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ComputerStorageDeviceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electronic Computer Manufacturing" />
+			<MSDL>
+				<name value="ElectronicComputerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectronicComputerManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Computer Peripheral Equipment Manufacturing" />
+			<MSDL>
+				<name value="OtherComputerPeripheralEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherComputerPeripheralEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Semiconductor and Other Electronic Component Manufacturing" />
+			<MSDL>
+				<name value="SemiconductorAndOtherElectronicComponentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SemiconductorAndOtherElectronicComponentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electronic Resistor Manufacturing" />
+			<MSDL>
+				<name value="ElectronicResistorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectronicResistorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electronic Coil, Transformer, and Other Inductor Manufacturing" />
+			<MSDL>
+				<name value="ElectronicCoilTransformerAndOtherInductorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectronicCoilTransformerAndOtherInductorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electronic Connector Manufacturing" />
+			<MSDL>
+				<name value="ElectronicConnectorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectronicConnectorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electron Tube Manufacturing" />
+			<MSDL>
+				<name value="ElectronTubeManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectronTubeManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Bare Printed Circuit Board Manufacturing" />
+			<MSDL>
+				<name value="BarePrintedCircuitBoardManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BarePrintedCircuitBoardManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Semiconductor and Related Device Manufacturing" />
+			<MSDL>
+				<name value="SemiconductorAndRelatedDeviceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SemiconductorAndRelatedDeviceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electronic Capacitor Manufacturing" />
+			<MSDL>
+				<name value="ElectronicCapacitorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectronicCapacitorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Audio and Video Equipment Manufacturing" />
+			<MSDL>
+				<name value="AudioAndVideoEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AudioAndVideoEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Manufacturing and Reproducing Magnetic and Optical Media" />
+			<MSDL>
+				<name value="ManufacturingAndReproducingMagneticAndOpticalMedia" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ManufacturingAndReproducingMagneticAndOpticalMedia" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Prerecorded Compact Disc (except Software), Tape, and Record Reproducing" />
+			<MSDL>
+				<name value="PrerecordedCompactDiscExceptSoftwareTapeAndRecordReproducing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PrerecordedCompactDiscExceptSoftwareTapeAndRecordReproducing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Magnetic and Optical Recording Media Manufacturing" />
+			<MSDL>
+				<name value="MagneticAndOpticalRecordingMediaManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MagneticAndOpticalRecordingMediaManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Software Reproducing" />
+			<MSDL>
+				<name value="SoftwareReproducing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SoftwareReproducing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Navigational, Measuring, Electromedical, and Control Instruments Manufacturing" />
+			<MSDL>
+				<name value="NavigationalMeasuringElectromedicalAndControlInstrumentsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#NavigationalMeasuringElectromedicalAndControlInstrumentsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing" />
+			<MSDL>
+				<name value="SearchDetectionNavigationGuidanceAeronauticalAndNauticalSystemAndInstrumentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SearchDetectionNavigationGuidanceAeronauticalAndNauticalSystemAndInstrumentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electromedical and Electrotherapeutic Apparatus Manufacturing" />
+			<MSDL>
+				<name value="ElectromedicalAndElectrotherapeuticApparatusManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectromedicalAndElectrotherapeuticApparatusManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Watch, Clock, and Part Manufacturing" />
+			<MSDL>
+				<name value="WatchClockAndPartManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#WatchClockAndPartManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Measuring and Controlling Device Manufacturing" />
+			<MSDL>
+				<name value="OtherMeasuringAndControllingDeviceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherMeasuringAndControllingDeviceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Analytical Laboratory Instrument Manufacturing" />
+			<MSDL>
+				<name value="AnalyticalLaboratoryInstrumentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AnalyticalLaboratoryInstrumentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Irradiation Apparatus Manufacturing" />
+			<MSDL>
+				<name value="IrradiationApparatusManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IrradiationApparatusManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Totalizing Fluid Meter and Counting Device Manufacturing" />
+			<MSDL>
+				<name value="TotalizingFluidMeterAndCountingDeviceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TotalizingFluidMeterAndCountingDeviceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals" />
+			<MSDL>
+				<name value="InstrumentManufacturingForMeasuringAndTestingElectricityAndElectricalSignals" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#InstrumentManufacturingForMeasuringAndTestingElectricityAndElectricalSignals" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use" />
+			<MSDL>
+				<name value="AutomaticEnvironmentalControlManufacturingForResidentialCommercialAndApplianceUse" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AutomaticEnvironmentalControlManufacturingForResidentialCommercialAndApplianceUse" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables" />
+			<MSDL>
+				<name value="InstrumentsAndRelatedProductsManufacturingForMeasuringDisplayingAndControllingIndustrialProcessVaraibles" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#InstrumentsAndRelatedProductsManufacturingForMeasuringDisplayingAndControllingIndustrialProcessVaraibles" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electrical Equipment, Appliance, and Component Manufacturing" />
+			<MSDL>
+				<name value="ElectricalEquipmentApplianceAndComponentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalEquipmentApplianceAndComponentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Household Appliance Manufacturing" />
+			<MSDL>
+				<name value="HouseholdApplianceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HouseholdApplianceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Major Appliance Manufacturing" />
+			<MSDL>
+				<name value="MajorApplianceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MajorApplianceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Household Laundry Equipment Manufacturing" />
+			<MSDL>
+				<name value="HouseholdLaundryEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HouseholdLaundryEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Household Refrigerator and Home Freezer Manufacturing" />
+			<MSDL>
+				<name value="HouseholdRefrigeratorAndHomeFreezerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HouseholdRefrigeratorAndHomeFreezerManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Household Cooking Appliance Manufacturing" />
+			<MSDL>
+				<name value="HouseholdCookingApplianceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HouseholdCookingApplianceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Major Household Appliance Manufacturing" />
+			<MSDL>
+				<name value="OtherMajorHouseholdApplianceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherMajorHouseholdApplianceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Small Electrical Appliance Manufacturing" />
+			<MSDL>
+				<name value="SmallElectricalApplianceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SmallElectricalApplianceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electric Housewares and Household Fan Manufacturing" />
+			<MSDL>
+				<name value="ElectricHousewaresAndHouseholdFanManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricHousewaresAndHouseholdFanManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Household Vacuum Cleaner Manufacturing" />
+			<MSDL>
+				<name value="HouseholdvacuumCleanerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HouseholdvacuumCleanerManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electric Lighting Equipment Manufacturing" />
+			<MSDL>
+				<name value="ElectricalLightingEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalLightingEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Lighting Fixture Manufacturing" />
+			<MSDL>
+				<name value="LightingFixtureManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#LightingFixtureManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing" />
+			<MSDL>
+				<name value="CommercialIndustrialAndInstitutionalElectricLightingFixtureManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CommercialIndustrialAndInstitutionalElectricLightingFixtureManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Residential Electric Lighting Fixture Manufacturing" />
+			<MSDL>
+				<name value="ResidentialElectricLightingFixtureManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ResidentialElectricLightingFixtureManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Lighting Equipment Manufacturing" />
+			<MSDL>
+				<name value="OtherLightingEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherLightingEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electric Lamp Bulb and Part Manufacturing" />
+			<MSDL>
+				<name value="ElectricLampBulbAndPartManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricLampBulbAndPartManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Electrical Equipment and Component Manufacturing" />
+			<MSDL>
+				<name value="OtherElectricalEquipmentAndComponentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherElectricalEquipmentAndComponentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="All Other Electrical Equipment and Component Manufacturing" />
+			<MSDL>
+				<name value="AllOtherElectricalEquipmentAndComponentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AllOtherElectricalEquipmentAndComponentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="All Other Miscellaneous Electrical Equipment and Component Manufacturing" />
+			<MSDL>
+				<name value="AllOtherMiscellaneousElectricalEquipmentAndComponentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AllOtherMiscellaneousElectricalEquipmentAndComponentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Carbon and Graphite Product Manufacturing" />
+			<MSDL>
+				<name value="CarbonAndGraphiteProductManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CarbonAndGraphiteProductManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Battery Manufacturing" />
+			<MSDL>
+				<name value="BatteryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BatteryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Primary Battery Manufacturing" />
+			<MSDL>
+				<name value="PrimaryBatteryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PrimaryBatteryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Storage Battery Manufacturing" />
+			<MSDL>
+				<name value="StorageBatteryManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#StorageBatteryManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Communication and Energy Wire and Cable Manufacturing" />
+			<MSDL>
+				<name value="CommunicationAndEnergyWireAndCableManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CommunicationAndEnergyWireAndCableManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Fiber Optic Cable Manufacturing" />
+			<MSDL>
+				<name value="FiberOpticCableManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FiberOpticCableManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Communication and Energy Wire Manufacturing" />
+			<MSDL>
+				<name value="OtherCommunicationsAndEnergyWireManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherCommunicationsAndEnergyWireManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Wiring Device Manufacturing" />
+			<MSDL>
+				<name value="WiringDeviceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#WiringDeviceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Current-Carrying Wiring Device Manufacturing" />
+			<MSDL>
+				<name value="CurrentCarryingWiringDeviceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CurrentCarryingWiringDeviceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Noncurrent-Carrying Wiring Device Manufacturing" />
+			<MSDL>
+				<name value="NoncurrentCarryingWiringDeviceManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#NoncurrentCarryingWiringDeviceManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electrical Equipment Manufacturing" />
+			<MSDL>
+				<name value="ElectricalEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Relay and Industrial Control Manufacturing" />
+			<MSDL>
+				<name value="RelayAndIndustrialControlManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RelayAndIndustrialControlManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Switchgear and Switchboard Apparatus Manufacturing" />
+			<MSDL>
+				<name value="SwitchgearAndSwitchboardApparatusManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SwitchgearAndSwitchboardApparatusManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor and Generator Manufacturing" />
+			<MSDL>
+				<name value="MotorAndGeneratorManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorAndGeneratorManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="ower, Distribution, and Specialty Transformer Manufacturing" />
+			<MSDL>
+				<name value="PowerDistributionAndSpecialtyTransformerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PowerDistributionAndSpecialtyTransformerManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Miscellanious Manufacturing" />
+			<MSDL>
+				<name value="MiscellaneousManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MiscellaneousManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Medical Equipment and Supplies Manufacturing" />
+			<MSDL>
+				<name value="MedicalEquipmentAndSuppliesManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MedicalEquipmentAndSuppliesManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Transportation Equipment Manufacturing" />
+			<MSDL>
+				<name value="TransportationEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TransportationEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Transportation Equipment Manufacturing" />
+			<MSDL>
+				<name value="OtherTransportationEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherTransportationEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="All Other Transportation Equipment Manufacturing" />
+			<MSDL>
+				<name value="AllOtherTransportationEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AllOtherTransportationEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Military Armored Vehicle, Tank, and Tank Component Manufacturing" />
+			<MSDL>
+				<name value="MilitaryArmoredVehicleTankAndTankComponentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MilitaryArmoredVehicleTankAndTankComponentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motorcycle, Bicycle, and Parts Manufacturing" />
+			<MSDL>
+				<name value="MotorcycleBicycleAndPartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorcycleBicycleAndPartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Railroad Rolling Stock Manufacturing" />
+			<MSDL>
+				<name value="RailroadRollingStockManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RailroadRollingStockManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ship and Boat Building" />
+			<MSDL>
+				<name value="ShipandBoatBuilding" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ship Building and Repairing" />
+			<MSDL>
+				<name value="ShipBuildingAndRepairing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ShipBuildingAndRepairing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Boat Building" />
+			<MSDL>
+				<name value="BoatBuilding" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BoatBuilding" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Parts Manufacturing" />
+			<MSDL>
+				<name value="MotorVehiclePartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehiclePartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Gasoline Engine and Engine Parts Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleGasolineEngineAndEnginePartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleGasolineEngineAndEnginePartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Carburetor, Piston, Piston Ring, and Valve Manufacturing" />
+			<MSDL>
+				<name value="CarburetorPistonPistonRingAndValveManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CarburetorPistonPistonRingAndValveManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Gasoline Engine and Engine Parts Manufacturing" />
+			<MSDL>
+				<name value="GasolineEngienAndEnginePartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#GasolineEngienAndEnginePartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Metal Stamping" />
+			<MSDL>
+				<name value="MotorVehicleMetalStamping" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleMetalStamping" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Motor Vehicle Parts Manufacturing" />
+			<MSDL>
+				<name value="OtherMotorVehiclePartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherMotorVehiclePartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Air-Conditioning Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleAirConditioningManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleAirConditioningManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="All Other Motor Vehicle Parts Manufacturing" />
+			<MSDL>
+				<name value="AllOtherMotorVehiclePartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AllOtherMotorVehiclePartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Transmission and Power Train Parts Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleTransmissionAndPowerTrainPartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleTransmissionAndPowerTrainPartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Seating and Interior Trim Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleSeatingAndInteriorTrimManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleSeatingAndInteriorTrimManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleSteeringAndSuspensionComponentsExceptSpringManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleSteeringAndSuspensionComponentsExceptSpringManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Brake System Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleBrakeSystemManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleBrakeSystemManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Electrical and Electronic Equipment Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleElectricalAndElectronicEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleElectricalAndElectronicEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Vehicular Lighting Equipment Manufacturing" />
+			<MSDL>
+				<name value="VehicularLightingEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#VehicularLightingEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Motor Vehicle Electrical and Electronic Equipment Manufacturing" />
+			<MSDL>
+				<name value="OtherMotorVehicleElectricalAndElectronicEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherMotorVehicleElectricalAndElectronicEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aerospace Product and Parts Manufacturing" />
+			<MSDL>
+				<name value="AerospaceProductandPartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AerospaceProductandPartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing" />
+			<MSDL>
+				<name value="OtherGuidedMissleAndSpaceVehiclePartsAndAuxiliaryEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherGuidedMissleAndSpaceVehiclePartsAndAuxiliaryEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aircraft Manufacturing" />
+			<MSDL>
+				<name value="AircraftManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AircraftManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aircraft Engine and Engine Parts Manufacturing" />
+			<MSDL>
+				<name value="AircraftEngineAndEnginePartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AircraftEngineAndEnginePartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other Aircraft Parts and Auxiliary Equipment Manufacturing" />
+			<MSDL>
+				<name value="OtherAircraftPartsAndAuxiliaryEquipmentManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherAircraftPartsAndAuxiliaryEquipmentManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Guided Missile and Space Vehicle Manufacturing" />
+			<MSDL>
+				<name value="GuidedMissleAndSpaceVehicleManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#GuidedMissleAndSpaceVehicleManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing" />
+			<MSDL>
+				<name value="GuidedMissleAndSpaceVehiclePropulsionUnitAndPropulsionUnitPartsManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#GuidedMissleAndSpaceVehiclePropulsionUnitAndPropulsionUnitPartsManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Heavy Duty Truck Manufacturing" />
+			<MSDL>
+				<name value="HeavyDutyTruckManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HeavyDutyTruckManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Automobile and Light Duty Motor Vehicle Manufacturing" />
+			<MSDL>
+				<name value="AutomobileAndLightDutyMotorVehicleManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AutomobileAndLightDutyMotorVehicleManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Light Truck and Utility Vehicle Manufacturing" />
+			<MSDL>
+				<name value="LightTruckAndUtilityVehicleManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#LightTruckAndUtilityVehicleManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Automobile Manufacturing" />
+			<MSDL>
+				<name value="AutomobileManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AutomobileManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Body and Trailer Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleBodyandTrailerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleBodyandTrailerManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Home Manufacturing" />
+			<MSDL>
+				<name value="MotorHomeManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorHomeManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Travel Trailer and Camper Manufacturing" />
+			<MSDL>
+				<name value="TravelTrailerAndCamperManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TravelTrailerAndCamperManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor Vehicle Body Manufacturing" />
+			<MSDL>
+				<name value="MotorVehicleBodyManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleBodyManufacturing" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Truck Trailer Manufacturing" />
+			<MSDL>
+				<name value="TruckTrailerManufacturing" />
+				<type value="Industry" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TruckTrailerManufacturing" />
+			</MSDL>
+		</Concept>
+		  
+		<!--****************************************************************
+		  **** Products 
+		  ******************************************************************-->
+		<Concept>
+			<Thesaurus value="Metal products, machinery and equipment" />
+			<MSDL>
+				<name value="MetalProductsMachineriesAndEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MetalProductsMachineriesAndEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for ignition and signalling equipment" />
+			<MSDL>
+				<name value="PedestrianControlledTractors" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PedestrianControlledTractors" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="General purpose machinery" />
+			<MSDL>
+				<name value="GeneralPurposeMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#GeneralPurposeMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Engines, turbines and parts" />
+			<MSDL>
+				<name value="EnginesAndTurbines" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#EnginesAndTurbines" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Internal combustion piston engines" />
+			<MSDL>
+				<name value="InternalCombustionPistonEngines" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#InternalCombustionPistonEngines" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for steam turbines and engines" />
+			<MSDL>
+				<name value="PartsforGoodsOfClassesEngineAndTurbines" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsforGoodsOfClassesEngineAndTurbines" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Steam turbines" />
+			<MSDL>
+				<name value="SteamTurbines" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SteamTurbines" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motors and engines for aircraft and spacecraft" />
+			<MSDL>
+				<name value="MotorsAndEnginesForAircraft" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorsAndEnginesForAircraft" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Bearings, gears, gearing and driving elements" />
+			<MSDL>
+				<name value="BearingsandGearsAndDrivingElements" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BearingsandGearsAndDrivingElements" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Transmission shafts and cranks" />
+			<MSDL>
+				<name value="TransmissionPartsShaftsGearsBearings" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TransmissionPartsShaftsGearsBearings" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ball or roller bearings" />
+			<MSDL>
+				<name value="BallorRollerBearings" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BallorRollerBearings" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other general-purpose machinery and parts" />
+			<MSDL>
+				<name value="OtherGeneralPurposeMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherGeneralPurposeMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="General-purpose machinery nec" />
+			<MSDL>
+				<name value="GeneralPurposeMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#GeneralPurposeMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ovens and furnace burners" />
+			<MSDL>
+				<name value="OvensAndFurnaceBurners" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OvensAndFurnaceBurners" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Pumps, compressors, hydraulic and pneumatic power engines" />
+			<MSDL>
+				<name value="PumpsAndCompressors" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PumpsAndCompressors" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Air or vacuum pumps" />
+			<MSDL>
+				<name value="AirOrVacuumPump" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AirOrVacuumPump" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Pumps for liquids" />
+			<MSDL>
+				<name value="PumpsforLiquids" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PumpsforLiquids" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Lifting and handling equipment" />
+			<MSDL>
+				<name value="LiftingAndHandlingEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#LiftingAndHandlingEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Special purpose machinery" />
+			<MSDL>
+				<name value="SpecialPurposeMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SpecialPurposeMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Agricultural or forestry machinery" />
+			<MSDL>
+				<name value="AgriculturalOrForestryMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AgriculturalOrForestryMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metallurgy machinery" />
+			<MSDL>
+				<name value="MachineryForMetallurgy" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineryForMetallurgy" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Converters, ladles, and molds" />
+			<MSDL>
+				<name value="ConvertersLadlesAndCastingMachines" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ConvertersLadlesAndCastingMachines" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for metallurgy machinery" />
+			<MSDL>
+				<name value="PartsForMetallurgyMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsForMetallurgyMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Food, beverage and tobacco processing machinery" />
+			<MSDL>
+				<name value="MachineryForFood" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineryForFood" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Machinery for food, beverage and tobacco industries" />
+			<MSDL>
+				<name value="MachineryForFoodIndustry" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineryForFoodIndustry" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for food, beverage, and tobacco machinery" />
+			<MSDL>
+				<name value="FoodMachineryParts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FoodMachineryParts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Textile and apparel machinery" />
+			<MSDL>
+				<name value="MachineryForTextile" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineryForTextile" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Leather and hide preparation machinery" />
+			<MSDL>
+				<name value="MachineryForPreparingHides" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineryForPreparingHides" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Textile preparing and weaving machinery" />
+			<MSDL>
+				<name value="MachineryForPreparingTextiles" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineryForPreparingTextiles" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other textile and apparel production machinery" />
+			<MSDL>
+				<name value="OtherMachineryForTextileProduction" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherMachineryForTextileProduction" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for textile and apparel machinery" />
+			<MSDL>
+				<name value="TextileMachineryParts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TextileMachineryParts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Machine-tools and parts" />
+			<MSDL>
+				<name value="MachineToolsAndParts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineToolsAndParts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Tool holders" />
+			<MSDL>
+				<name value="ToolHolders" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ToolHolders" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Powered hand tools" />
+			<MSDL>
+				<name value="HandTools" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HandTools" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Welding and soldering machine tools" />
+			<MSDL>
+				<name value="SolderingBrazingOrWeldingMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SolderingBrazingOrWeldingMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Metal-working machine tools" />
+			<MSDL>
+				<name value="MachineToolsForWorkingWithMetal" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineToolsForWorkingWithMetal" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Stone and ceramic machine tools" />
+			<MSDL>
+				<name value="MachineToolsForWorkingWithStone" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineToolsForWorkingWithStone" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Domestic appliances" />
+			<MSDL>
+				<name value="DomesticAppliances" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#DomesticAppliances" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Domestic appliances" />
+			<MSDL>
+				<name value="DomesticElectricAppliances" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#DomesticElectricAppliances" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Non-electric domestic cooking equipment" />
+			<MSDL>
+				<name value="DomesticCookingAndHeatingEquip" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#DomesticCookingAndHeatingEquip" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for domestic appliances" />
+			<MSDL>
+				<name value="DomesticApplianceParts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#DomesticApplianceParts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Mining and construction machinery" />
+			<MSDL>
+				<name value="MachineryForMining" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MachineryForMining" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Elevators and conveyors" />
+			<MSDL>
+				<name value="ElevatorsAndConveyors" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElevatorsAndConveyors" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other special purpose machinery" />
+			<MSDL>
+				<name value="OtherSpecialPurposeMachineryProducts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherSpecialPurposeMachineryProducts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Weapons and ammunition" />
+			<MSDL>
+				<name value="WeaponsAndAmmunition" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#WeaponsAndAmmunition" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts of military weapons" />
+			<MSDL>
+				<name value="PartsOfMilitaryWeapons" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsOfMilitaryWeapons" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Swords and similar arms" />
+			<MSDL>
+				<name value="SwordsCutlassesAndSimilarArms" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SwordsCutlassesAndSimilarArms" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Revolvers and pistols" />
+			<MSDL>
+				<name value="RevolversPistolsAndFirearms" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RevolversPistolsAndFirearms" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Bombs and similar munitions" />
+			<MSDL>
+				<name value="BombsGrenadesAndSimilarMunitions" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BombsGrenadesAndSimilarMunitions" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Tanks and armored fighting vehicles" />
+			<MSDL>
+				<name value="TanksAndArmouredFightingVehicles" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TanksAndArmouredFightingVehicles" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Military weapons" />
+			<MSDL>
+				<name value="MilitaryWeapons" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MilitaryWeapons" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Basic Metals" />
+			<MSDL>
+				<name value="BasicMetals" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BasicMetals" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Basic iron and steel" />
+			<MSDL>
+				<name value="BasicIronAndSteel" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BasicIronAndSteel" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Rolled, drawn and folded products of iron and steel" />
+			<MSDL>
+				<name value="DrawnAndFoldedProducts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#DrawnAndFoldedProducts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Semi-finished products of copper, nickel, aluminum, zinc and tin." />
+			<MSDL>
+				<name value="ProductsOfCopper" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ProductsOfCopper" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other non-ferrous metals" />
+			<MSDL>
+				<name value="OtherNonferrousMetals" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherNonferrousMetals" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Basic precious metals" />
+			<MSDL>
+				<name value="BasicPreciousMetals" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BasicPreciousMetals" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Unwrought copper, nickel, aluminium, zinc and tin" />
+			<MSDL>
+				<name value="CopperNickelAluminiumLeadZincAndTin" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CopperNickelAluminiumLeadZincAndTin" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Transport equipment" />
+			<MSDL>
+				<name value="TransportEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TransportEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Railway and locomotives" />
+			<MSDL>
+				<name value="RailwayLocomotivesAndRollingStock" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RailwayLocomotivesAndRollingStock" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts of railway and locomotives" />
+			<MSDL>
+				<name value="PartsOfRailwayLocomoticesOrRollingStock" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsOfRailwayLocomoticesOrRollingStock" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other rolling stock" />
+			<MSDL>
+				<name value="OtherRollingStock" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherRollingStock" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Self-propelled railway coaches" />
+			<MSDL>
+				<name value="SelfPropelledRailwayCoaches" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SelfPropelledRailwayCoaches" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Rail locomotives and tender" />
+			<MSDL>
+				<name value="RailLocomotives" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RailLocomotives" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Pleasure and sporting boats" />
+			<MSDL>
+				<name value="PleasureAndSportBoats" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PleasureAndSportBoats" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other pleasure or sporting vessels" />
+			<MSDL>
+				<name value="RowingBoatsAndCanoes" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RowingBoatsAndCanoes" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Sailboats" />
+			<MSDL>
+				<name value="Sailboats" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Sailboats" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aircraft and spacecraft" />
+			<MSDL>
+				<name value="AircraftAndSpacecraft" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AircraftAndSpacecraft" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts of aircraft and spacecraft" />
+			<MSDL>
+				<name value="PartsOfAircraftAndSpacecraft" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsOfAircraftAndSpacecraft" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Spacecraft and launch vehicles" />
+			<MSDL>
+				<name value="SpacecraftAndLaunchVehicles" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SpacecraftAndLaunchVehicles" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Aeroplanes and helicopters" />
+			<MSDL>
+				<name value="AeroplanesAndHelicopters" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AeroplanesAndHelicopters" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Balloons and dirigibles" />
+			<MSDL>
+				<name value="BalloonsAndDirigibles" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BalloonsAndDirigibles" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other transport equipment" />
+			<MSDL>
+				<name value="OtherTransportationEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherTransportationEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for motocycles and bicycles" />
+			<MSDL>
+				<name value="PartsForOtherTransportationEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsForOtherTransportationEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motorcycles and side-cars" />
+			<MSDL>
+				<name value="MotorcyclesAndSidecars" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorcyclesAndSidecars" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Non-mechanically propelled vehicles" />
+			<MSDL>
+				<name value="VehiclesNotMechanicallyPropelled" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#VehiclesNotMechanicallyPropelled" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Bicycles and invalid carriages" />
+			<MSDL>
+				<name value="BicyclesAndInvalidCarriages" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BicyclesAndInvalidCarriages" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor vehicles, trailers and semi-trailers" />
+			<MSDL>
+				<name value="MotorVehiclesTrailersAndSemiTrailersPartsAndAccessories" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehiclesTrailersAndSemiTrailersPartsAndAccessories" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts and accessories" />
+			<MSDL>
+				<name value="PartsAndAccessories" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsAndAccessories" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motor vehicles" />
+			<MSDL>
+				<name value="MotorVehicles" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicles" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Bodies for motor vehicles" />
+			<MSDL>
+				<name value="BodiesForMotorVehicles" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BodiesForMotorVehicles" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Bodies for motor vehicles" />
+			<MSDL>
+				<name value="MotorVehicleBodies" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MotorVehicleBodies" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Trailers and semi-trailers" />
+			<MSDL>
+				<name value="TrailersAndSemiTrailers" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TrailersAndSemiTrailers" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for motor vehicle bodies and trailers" />
+			<MSDL>
+				<name value="PartsForMotorVehicleBodies" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsForMotorVehicleBodies" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ships" />
+			<MSDL>
+				<name value="Ships" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Ships" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other floating structures" />
+			<MSDL>
+				<name value="OtherFloatingStructures" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherFloatingStructures" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Commercial ships and warships" />
+			<MSDL>
+				<name value="CommercialShips" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CommercialShips" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Floating or submersible drilling platforms" />
+			<MSDL>
+				<name value="FloatingDrillingPlatforms" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FloatingDrillingPlatforms" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Fabricated metal products" />
+			<MSDL>
+				<name value="FabricatedMetalProducts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#FabricatedMetalProducts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Steam generators and parts" />
+			<MSDL>
+				<name value="SteamGenerators" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SteamGenerators" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for nuclear reactors and auxiliary plants" />
+			<MSDL>
+				<name value="Parts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Parts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Auxiliary plant used with boilers" />
+			<MSDL>
+				<name value="AuxiliaryPlant" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AuxiliaryPlant" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Nuclear reactors" />
+			<MSDL>
+				<name value="NuclearReactors" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#NuclearReactors" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Vapor generating boilers" />
+			<MSDL>
+				<name value="SteamGeneratingBoilers" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#SteamGeneratingBoilers" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Tanks, reservoirs and containers" />
+			<MSDL>
+				<name value="TanksReservoirsContainersofIronSteelorAluminum" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TanksReservoirsContainersofIronSteelorAluminum" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Reservoirs, tanks, vats and similar containers" />
+			<MSDL>
+				<name value="ReservoirsTanksVatsAndSimilarContainers" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ReservoirsTanksVatsAndSimilarContainers" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Compressed or liquified gas containers" />
+			<MSDL>
+				<name value="ContainersForCompressedGas" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ContainersForCompressedGas" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Structural metal products and parts" />
+			<MSDL>
+				<name value="StructuralMetalProductsAndParts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Bridges and parts made of iron or steel." />
+			<MSDL>
+				<name value="BridgesBridgeSectionsTowersAndLatticeMasts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#BridgesBridgeSectionsTowersAndLatticeMasts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Doors, windows and parts made of iron, steel or aluminum" />
+			<MSDL>
+				<name value="DoorsWindowsAndTheirFrames" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#DoorsWindowsAndTheirFrames" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other structures and parts made of iron, steel or aluminum" />
+			<MSDL>
+				<name value="OtherStructures" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherStructures" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other fabricated metal products" />
+			<MSDL>
+				<name value="OtherFabricatedMetalProducts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherFabricatedMetalProducts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Domestic metal products" />
+			<MSDL>
+				<name value="DomesticMetalProducts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#DomesticMetalProducts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Radio, television and communications equipment and apparatus" />
+			<MSDL>
+				<name value="RadioTelevisionAndCommEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RadioTelevisionAndCommEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Television and radio transmitting equipment" />
+			<MSDL>
+				<name value="TelevisionAndRadioTransmitters" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TelevisionAndRadioTransmitters" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Valves and tubes" />
+			<MSDL>
+				<name value="ElectronicValvesAndTubes" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectronicValvesAndTubes" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for radio and television equipment" />
+			<MSDL>
+				<name value="PartsForRadioAndTelevisionBroadcastingAndReceiving" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsForRadioAndTelevisionBroadcastingAndReceiving" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Radio and television receiving equipment" />
+			<MSDL>
+				<name value="RadioBroadcastAndTelevisionReceiversAndApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RadioBroadcastAndTelevisionReceiversAndApparatus" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Audio and video media" />
+			<MSDL>
+				<name value="AudioAndVideoRecordsAndTapes" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AudioAndVideoRecordsAndTapes" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Medical appliances, precision and optical instruments, watches and clocks" />
+			<MSDL>
+				<name value="MedicalAppliancesAndPrecisionInstruments" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MedicalAppliancesAndPrecisionInstruments" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Watches and clocks" />
+			<MSDL>
+				<name value="WatchesAndClocks" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#WatchesAndClocks" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Watches" />
+			<MSDL>
+				<name value="Watches" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Watches" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Clocks" />
+			<MSDL>
+				<name value="Clocks" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Clocks" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Time of day recording apparatus" />
+			<MSDL>
+				<name value="TimeOfDayRecordingApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#TimeOfDayRecordingApparatus" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Watch or clock movements" />
+			<MSDL>
+				<name value="WatchOrClockMovements" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#WatchOrClockMovements" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other watch or clock parts" />
+			<MSDL>
+				<name value="OtherWatchOrClockParts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherWatchOrClockParts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Optical and photographic instruments" />
+			<MSDL>
+				<name value="OpticalInstrumentsAndPhotographicEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OpticalInstrumentsAndPhotographicEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Optical instruments" />
+			<MSDL>
+				<name value="OpticalInstruments" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OpticalInstruments" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Photographic plates and print film chemicals" />
+			<MSDL>
+				<name value="PhotographicPlatesAndFilm" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PhotographicPlatesAndFilm" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for optical and photographic instruments" />
+			<MSDL>
+				<name value="PartsForOpticalInstrumentsAndPhotographicEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsForOpticalInstrumentsAndPhotographicEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Photographic equipment" />
+			<MSDL>
+				<name value="PhotographicEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PhotographicEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Microfilm readers" />
+			<MSDL>
+				<name value="MicrofilmReaders" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MicrofilmReaders" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Measuring and testing instruments" />
+			<MSDL>
+				<name value="MeasuringAppliancesAndInstruments" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MeasuringAppliancesAndInstruments" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for measuring equipment" />
+			<MSDL>
+				<name value="PartsForMeasuringInstruments" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsForMeasuringInstruments" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Thermometers, hydrometers and similar instruments" />
+			<MSDL>
+				<name value="HydrometersAndFloatingInstruments" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HydrometersAndFloatingInstruments" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other measuring instruments" />
+			<MSDL>
+				<name value="OtherMeasuringInstruments" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherMeasuringInstruments" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Navigational and meteorological instruments" />
+			<MSDL>
+				<name value="NavigationalMeteorologicalAndSimilarInstruments" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#NavigationalMeteorologicalAndSimilarInstruments" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Radar apparatus" />
+			<MSDL>
+				<name value="RadarApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#RadarApparatus" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electrical measuring instruments" />
+			<MSDL>
+				<name value="ElectricalMeasuringInstrumentsAndApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalMeasuringInstrumentsAndApparatus" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Precision measuring instruments" />
+			<MSDL>
+				<name value="PrecisionBalances" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PrecisionBalances" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Medical and surgical equipment" />
+			<MSDL>
+				<name value="MedicalAndSurgicalEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MedicalAndSurgicalEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electrodiagnostic apparatus" />
+			<MSDL>
+				<name value="ElectroDiagnosticApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectroDiagnosticApparatus" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Dental instruments and appliances" />
+			<MSDL>
+				<name value="DentalInstrumentsAndAppliances" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#DentalInstrumentsAndAppliances" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Sterilizers" />
+			<MSDL>
+				<name value="MedicalAndLaboratorySterilizers" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MedicalAndLaboratorySterilizers" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other instruments and appliances" />
+			<MSDL>
+				<name value="MedicalInstrumentsAndAppliances" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MedicalInstrumentsAndAppliances" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Massage and therapy appliances" />
+			<MSDL>
+				<name value="MechanoTherapyAppliances" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MechanoTherapyAppliances" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Orthopaedic appliances" />
+			<MSDL>
+				<name value="OrthopaedicAppliances" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OrthopaedicAppliances" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Medical furniture" />
+			<MSDL>
+				<name value="MedicalFurniture" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#MedicalFurniture" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="X-ray apparatus" />
+			<MSDL>
+				<name value="XRayApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#XRayApparatus" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Office, accounting and computing machinery" />
+			<MSDL>
+				<name value="OfficeAccountingAndComputingMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OfficeAccountingAndComputingMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Office machinery" />
+			<MSDL>
+				<name value="OfficeAndAccountingMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OfficeAndAccountingMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Sheet-fed printers" />
+			<MSDL>
+				<name value="OfficeTypePrintingMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OfficeTypePrintingMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other office machines" />
+			<MSDL>
+				<name value="OtherOfficeMachines" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherOfficeMachines" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Accounting machines" />
+			<MSDL>
+				<name value="CalculatingMachines" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CalculatingMachines" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for typewriters and calculators" />
+			<MSDL>
+				<name value="" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Typewriters and word-processing machines" />
+			<MSDL>
+				<name value="" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts and accessories for accounting machines" />
+			<MSDL>
+				<name value="Class_27" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Class_27" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Computing machinery" />
+			<MSDL>
+				<name value="ComputingMachineryParts" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ComputingMachineryParts" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Computer peripherals" />
+			<MSDL>
+				<name value="" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for computers" />
+			<MSDL>
+				<name value="Class_34" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#Class_34" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Storage units" />
+			<MSDL>
+				<name value="StorageUnits" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#StorageUnits" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other data processing machines" />
+			<MSDL>
+				<name value="OtherComputingMachinery" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherComputingMachinery" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Input and output units" />
+			<MSDL>
+				<name value="InputOutputUnits" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#InputOutputUnits" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electrical machinery and apparatus" />
+			<MSDL>
+				<name value="ElectricalMachineryAndApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalMachineryAndApparatus" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motors and generators" />
+			<MSDL>
+				<name value="ElectricMotorsAndGenerators" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricMotorsAndGenerators" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for motors and generators" />
+			<MSDL>
+				<name value="PartsForEletricalMotorsAndGenerators" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsForEletricalMotorsAndGenerators" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Motors and generators" />
+			<MSDL>
+				<name value="ElectricMotorsGeneratorsAndLike" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricMotorsGeneratorsAndLike" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Transformers, static converters and inductors" />
+			<MSDL>
+				<name value="ElectricalTransformers" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalTransformers" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electricity distribution apparatus" />
+			<MSDL>
+				<name value="ElectricityDistributionAndControlApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricityDistributionAndControlApparatus" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for electricity distribution apparatus" />
+			<MSDL>
+				<name value="PartsOfElectricityDistributionApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsOfElectricityDistributionApparatus" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Insulated wire and cable" />
+			<MSDL>
+				<name value="InsulatedWireAndCable" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#InsulatedWireAndCable" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ingition wiring sets" />
+			<MSDL>
+				<name value="IgnitionWiringSets" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#IgnitionWiringSets" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Coaxial cable" />
+			<MSDL>
+				<name value="CoAxialCable" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CoAxialCable" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Insulated winding wire" />
+			<MSDL>
+				<name value="InsulatedWindingWire" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#InsulatedWindingWire" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Optical fibers" />
+			<MSDL>
+				<name value="OpticalFibre" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OpticalFibre" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other electrical conductors for more than 1000V" />
+			<MSDL>
+				<name value="ElectricalConductorsOver1000V" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalConductorsOver1000V" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other electrical conductors for less than 1000V" />
+			<MSDL>
+				<name value="ElectricalConductorsUnder1000V" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalConductorsUnder1000V" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Accumulators and batteries" />
+			<MSDL>
+				<name value="AccumulatorsAndBatteries" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#AccumulatorsAndBatteries" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Batteries" />
+			<MSDL>
+				<name value="PrimaryCellsAndBatteries" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PrimaryCellsAndBatteries" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for accumulators and batteries" />
+			<MSDL>
+				<name value="PartsOfElectricAccumulatorsAndBatteries" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsOfElectricAccumulatorsAndBatteries" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Accumulators" />
+			<MSDL>
+				<name value="ElectricAccumulators" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricAccumulators" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Lamps" />
+			<MSDL>
+				<name value="ElectricFilamentOrLightingEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricFilamentOrLightingEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Lighting equipment" />
+			<MSDL>
+				<name value="LightingEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#LightingEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other lighting equipment" />
+			<MSDL>
+				<name value="LightingEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#LightingEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Discharge and arc lamps" />
+			<MSDL>
+				<name value="ElectricFilamentOrDischargeLamps" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricFilamentOrDischargeLamps" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Parts for lamps and lighting equipment" />
+			<MSDL>
+				<name value="PartsForElectricFilamentOrLightingEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#PartsForElectricFilamentOrLightingEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Other electrical equipment" />
+			<MSDL>
+				<name value="OtherElectricalEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#OtherElectricalEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Ignition equipment" />
+			<MSDL>
+				<name value="ElectricalIgnitionOrStartingEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalIgnitionOrStartingEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Carbon brush" />
+			<MSDL>
+				<name value="CarbonElectrodes" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#CarbonElectrodes" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electric insulators" />
+			<MSDL>
+				<name value="ElectricalInsulators" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalInsulators" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Electrical equipment n.e.c." />
+			<MSDL>
+				<name value="ElectricalEquipment" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricalEquipment" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Sound or visual signalling equipment" />
+			<MSDL>
+				<name value="ElectricSignallingApparatus" />
+				<type value="Product" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#ElectricSignallingApparatus" />
+			</MSDL>
+		</Concept>
+				  
+		<!--****************************************************************
+		  **** Properties 
+		  ******************************************************************-->
+		<Concept>
+			<Thesaurus value="prototyping" />
+			<MSDL>
+				<name value="hasProductionVolume" />
+				<type value="Property" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#hasProductionVolume" />
+				<attribute value="1" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="high volume machining" />
+			<MSDL>
+				<name value="hasProductionVolume" />
+				<type value="Property" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#hasProductionVolume" />
+				<attribute value="100" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Short Run" />
+			<MSDL>
+				<name value="hasProductionVolume" />
+				<type value="Property" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#hasProductionVolume" />
+				<attribute value="10" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="precision tolerance" />
+			<MSDL>
+				<name value="hasAccuracy" />
+				<type value="Property" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#hasAccuracy" />
+				<attribute value="0.001" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="CNC Machining" />
+			<MSDL>
+				<name value="isComputerControlled" />
+				<type value="Property" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#isComputerControlled" />
+				<attribute value="true" />
+			</MSDL>
+		</Concept>
+				  
+		<!--****************************************************************
+		  **** Misc
+		  ******************************************************************-->
+		<Concept>
+			<Thesaurus value="Horizontal machining center" />
+			<MSDL>
+				<name value="HorizontalMachiningCenter" />
+				<type value="MachineTool" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#HorizontalMachiningCenter" />
+			</MSDL>
+		</Concept>
+		<Concept>
+			<Thesaurus value="Vertical machining center" />
+			<MSDL>
+				<name value="VerticalMachiningCenter" />
+				<type value="MachineTool" />
+				<URI value="http://147.26.174.31/ontology/MSDL-Base.owl#VerticalMachiningCenter" />
+			</MSDL>
+		</Concept>
+
+	</TranslationMapping>
+</xml>

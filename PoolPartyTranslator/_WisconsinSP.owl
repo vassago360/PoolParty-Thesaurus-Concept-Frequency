@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#"
+     xml:base="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:MSDL-Base="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#">
+    <owl:Ontology rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl">
+        <rdfs:comment xml:lang="en">(c) 2010-2012 by Farhad Ameri and the Engineering Informatics Research Group.  Licensed under Creative Commons Attribution-NonCommercial license.</rdfs:comment>
+        <owl:imports rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#hasActor -->
+
+    <owl:ObjectProperty rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#hasActor"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#hasIndustryFocus -->
+
+    <owl:ObjectProperty rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#hasIndustryFocus"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#hasProcess -->
+
+    <owl:ObjectProperty rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#hasProcess"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#hasService -->
+
+    <owl:ObjectProperty rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#hasService"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Boring -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Boring"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Drilling -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Drilling"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#ElectroDischargeMachining -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#ElectroDischargeMachining"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Grinding -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Grinding"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MechanicalJoining -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MechanicalJoining"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MetalStamping -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MetalStamping"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Milling -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Milling"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Supplier -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Supplier"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#SupplierProfile -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#SupplierProfile"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Tapping -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Tapping"/>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Turning -->
+
+    <owl:Class rdf:about="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Turning"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#IndustryMetalStamping -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#IndustryMetalStamping">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MetalStamping"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessBoring -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessBoring">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Boring"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessDrilling -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessDrilling">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Drilling"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessElectroDischargeMachining -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessElectroDischargeMachining">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#ElectroDischargeMachining"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessGrinding -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessGrinding">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Grinding"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessMechanicalJoining -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessMechanicalJoining">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MechanicalJoining"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessMilling -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessMilling">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Milling"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessTapping -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessTapping">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Tapping"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessTurning -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessTurning">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Turning"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SP_Wisconsin_Metal_Parts -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SP_Wisconsin_Metal_Parts">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#SupplierProfile"/>
+        <MSDL-Base:hasService rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcBoring"/>
+        <MSDL-Base:hasService rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcDrilling"/>
+        <MSDL-Base:hasService rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcElectroDischargeMachining"/>
+        <MSDL-Base:hasService rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcGrinding"/>
+        <MSDL-Base:hasService rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcMechanicalJoining"/>
+        <MSDL-Base:hasService rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcMilling"/>
+        <MSDL-Base:hasService rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcTapping"/>
+        <MSDL-Base:hasService rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcTurning"/>
+        <MSDL-Base:hasActor rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#Wisconsin_Metal_Parts"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcBoring -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcBoring">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService"/>
+        <MSDL-Base:hasProcess rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessBoring"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcDrilling -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcDrilling">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService"/>
+        <MSDL-Base:hasProcess rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessDrilling"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcElectroDischargeMachining -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcElectroDischargeMachining">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService"/>
+        <MSDL-Base:hasProcess rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessElectroDischargeMachining"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcGrinding -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcGrinding">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService"/>
+        <MSDL-Base:hasProcess rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessGrinding"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcMechanicalJoining -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcMechanicalJoining">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService"/>
+        <MSDL-Base:hasProcess rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessMechanicalJoining"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcMilling -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcMilling">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService"/>
+        <MSDL-Base:hasProcess rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessMilling"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcTapping -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcTapping">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService"/>
+        <MSDL-Base:hasProcess rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessTapping"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcTurning -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#SvcTurning">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#MfgService"/>
+        <MSDL-Base:hasProcess rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#ProcessTurning"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#Wisconsin_Metal_Parts -->
+
+    <owl:NamedIndividual rdf:about="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#Wisconsin_Metal_Parts">
+        <rdf:type rdf:resource="http://infoneer.txstate.edu/ontology/MSDL-Base.owl#Supplier"/>
+        <MSDL-Base:hasIndustryFocus rdf:resource="http://infoneer.txstate.edu/ontology/Wisconsin_Metal_Parts.owl#IndustryMetalStamping"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2018) http://owlapi.sourceforge.net -->
+
